@@ -21,5 +21,5 @@ describe('Grub class functionality', () => {
 
   it('should eat jelly', () => {
     expect(grub.eat()).to.equal('Mmmmmmmmm jelly');
-  });
+  
 });
